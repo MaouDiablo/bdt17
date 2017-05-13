@@ -22,7 +22,7 @@ var count = {
 		if (this.counter < numb) {
 			return 'bilangan a kurang dari bilangan b';
 		}else if(this.counter == numb){
-			return 'bilangan sama dengan'
+			return 'bilangan a sama dengan b'
 		}else{
 			return 'bilangan a lebih dari bilangan b';
 		}
